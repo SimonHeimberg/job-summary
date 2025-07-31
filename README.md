@@ -1,6 +1,6 @@
 # Job Summary Action
 
-A GitHub Action that retrieves job summaries and easily converts them to Markdown, PDF, and HTML formats.
+A GitHub Action that retrieves the job summary from the current job and easily converts it to Markdown, PDF, and HTML formats.
 
 ## 📋 Overview
 
